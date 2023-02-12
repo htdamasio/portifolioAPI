@@ -1,0 +1,28 @@
+{
+    "UBI": {
+        "date": "2021-08-08",
+        "title": "Developer",
+        "company": "UBI",
+        "location": "Brazil",
+        "range": "Jan 2020 - Aug 2021",
+        "url": "",
+        "experience": [
+            "Developed and maintained website for B2G model primarily using HTML, CSS, and JavaScript with Vue",
+            "Tests in various browsers and devices to ensure cross-browser compatibility and mobile responsiveness",
+            "Optimization for displaying multiple items on the screen"
+        ]
+    },
+    "NELOGICA": {
+        "date": "2021-08-09",
+        "title": "Developer",
+        "company": "Nelogica",
+        "location": "Brazil",
+        "range": "Aug 2021 - Present",
+        "url": "",
+        "experience": [
+            "Engineered and maintained major features at an alarm microservice using Delphi, with a sockets connection.",
+            "Engineered and implemented a new microservice to allow users to be notified when a live stream started.",
+            "Perform unit tests in Delphi and functional tests in python for the applications to ensure the quality."
+        ]
+    }
+}
